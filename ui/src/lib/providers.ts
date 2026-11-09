@@ -48,7 +48,7 @@ export const PROVIDER_BASE_URL_OPTIONS: Record<string, ProviderBaseUrlOption[]> 
 };
 
 export const PROVIDER_MODEL_OPTIONS: Record<string, string[]> = {
-  minimax: ["MiniMax-M3", "MiniMax-M2.7"],
+  minimax: ["MiniMax-M3.1-Flash", "MiniMax-M3"],
 };
 
 export const PROVIDER_DEFAULT_BASE_URLS: Record<string, string> = {
